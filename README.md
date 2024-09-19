@@ -18,7 +18,7 @@ I'll try to guide you, step by step, through the VBM3D algorithm utilisation in 
 
 ## VBM3D Overview
 
-This source code provides an implementation of VBM3D developped in "Dabov, Kostadin, Alessandro Foi, and Karen Egiazarian. "*Video denoising by sparse 3D transform-domain collaborative filtering.*" 2007 15th European Signal Processing Conference. IEEE, 2007".
+This source code provides an implementation of VBM3D developped in "Dabov, Kostadin, Alessandro Foi, and Karen Egiazarian. *Video denoising by sparse 3D transform-domain collaborative filtering.* 2007 15th European Signal Processing Conference. IEEE, 2007".
 
 This code is part of an [IPOL](https://www.ipol.im/) publication. Please cite it if you use this code as part of your research ([link](https://www.ipol.im/pub/art/2021/340/)).
 
