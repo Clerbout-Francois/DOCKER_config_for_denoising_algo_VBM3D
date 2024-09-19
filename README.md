@@ -8,8 +8,9 @@ I'll try to guide you, step by step, through the VBM3D algorithm utilisation in 
 1. [VBM3D Overview](#overview_)
 2. [Introduction](#introduction_)
 3. [Docker Installation](#docker_)
-4. [Docker Configuration](#prerequisites_)
-5. [VMB3D Execution](#execution_)
+4. [Prerequisites](#prerequisites_")
+5. [Docker Configuration](#prerequisites_)
+6. [VMB3D Execution](#execution_)
 
 
 
@@ -53,8 +54,6 @@ If this command works, Docker is set up correctly.
 <a name="prerequisites_"/>
 
 ## Prerequisites
-
-### Packages
 
 You will need the following packages/libraries: **FFTW3**, **OpenMP**, **libpng**, **libtiff** and **libjpeg**.
 
