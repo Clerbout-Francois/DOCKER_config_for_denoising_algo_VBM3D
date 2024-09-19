@@ -51,7 +51,7 @@ docker run hello-world
 If this command works, Docker is set up correctly.
 
 [Table of Contents](#table_of_contents)
-<a name="prerequisite_s"/>
+<a name="prerequisites_"/>
 
 ## Prerequisites
 
