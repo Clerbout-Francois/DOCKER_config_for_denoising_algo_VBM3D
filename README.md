@@ -22,7 +22,7 @@ This source code provides an implementation of VBM3D developped in "Dabov, Kosta
 
 This code is part of an [IPOL](https://www.ipol.im/) publication. Please cite it if you use this code as part of your research ([link](https://www.ipol.im/pub/art/2021/340/)).
 
-It is based on Marc Lebrun's code for the image denoising version of this algorithm (BM3D) available on the [BM3D IPOL page](https://www.ipol.im/pub/art/2012/l-bm3d/). It also uses the TVL1 optical flow from IPOL ([here](https://www.ipol.im/pub/art/2013/26/), available in the folder `tvl1flow`) and the multiscale from [here](https://github.com/npd/multiscaler) (in the folder `multiscale`).
+It is based on Marc Lebrun's code for the image denoising version of this algorithm (BM3D) available on the [BM3D IPOL page](https://www.ipol.im/pub/art/2012/l-bm3d/). It also uses the TVL1 optical flow from IPOL ([here](https://www.ipol.im/pub/art/2013/26/), available in the folder `tvl1flow`) and the multiscale from [here](https://github.com/npd/multiscaler) (in the `multiscaler` repository).
 
 [Table of Contents](#table_of_contents)
 <a name="introduction_"/>
