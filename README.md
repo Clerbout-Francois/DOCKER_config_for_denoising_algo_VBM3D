@@ -8,7 +8,7 @@ I'll try to guide you, step by step, through the VBM3D algorithm utilisation in 
 1. [VBM3D Overview](#overview_)
 2. [Introduction](#introduction_)
 3. [Docker Installation](#docker_)
-4. [Prerequisites](#prerequisite_")
+4. [Prerequisites](#prerequisites_)
 5. [Docker Configuration](#dockerfile_)
 6. [VBM3D Execution](#execution_)
 
