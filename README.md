@@ -10,7 +10,7 @@ I'll try to guide you, step by step, through the VBM3D algorithm utilisation in 
 3. [Docker Installation](#docker_)
 4. [Prerequisites](#prerequisite_")
 5. [Docker Configuration](#dockerfile_)
-6. [VMB3D Execution](#execution_)
+6. [VBM3D Execution](#execution_)
 
 
 
@@ -51,7 +51,7 @@ docker run hello-world
 If this command works, Docker is set up correctly.
 
 [Table of Contents](#table_of_contents)
-<a name="prerequisite_"/>
+<a name="prerequisite_s"/>
 
 ## Prerequisites
 
@@ -142,7 +142,7 @@ Now you should be inside the container's shell, and you can run your tests or ex
 [Table of Contents](#table_of_contents)
 <a name="execution_"/>
 
-## VMB3D Execution
+## VBM3D Execution
 
 Now, you just need to follow the *USAGE* section of [this repository](https://github.com/tehret/vbm3d/blob/master/README.md).
 
