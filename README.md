@@ -20,7 +20,7 @@ I'll try to guide you, step by step, through the VBM3D algorithm utilisation in 
 
 This source code provides an implementation of VBM3D developped in "Dabov, Kostadin, Alessandro Foi, and Karen Egiazarian. "*Video denoising by sparse 3D transform-domain collaborative filtering.*" 2007 15th European Signal Processing Conference. IEEE, 2007".
 
-This code is part of an [IPOL](https://www.ipol.im/) publication. Please cite it if you use this code as part of your research [link](https://www.ipol.im/pub/art/2021/340/).
+This code is part of an [IPOL](https://www.ipol.im/) publication. Please cite it if you use this code as part of your research ([link](https://www.ipol.im/pub/art/2021/340/)).
 
 It is based on Marc Lebrun's code for the image denoising version of this algorithm (BM3D) available on the [BM3D IPOL page](https://www.ipol.im/pub/art/2012/l-bm3d/). It also uses the TVL1 optical flow from IPOL ([here](https://www.ipol.im/pub/art/2013/26/), available in the folder 'tvl1flow') and the multiscale from [here](https://github.com/npd/multiscaler) (in the folder 'multiscale').
 
